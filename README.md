@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="" title="JavaScript_ES6_Operators" src=".github/demostration_aplication.png" width="320px" />
+  <img alt="" title="JavaScript_ES6_Operators" src=".github/demostration_aplication_0.png" width="320px" />
   <br>
   JavaScript ES6 - Operators
 </h1>
